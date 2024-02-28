@@ -1,7 +1,5 @@
-Pman é uma plataforma de gerenciamento de pessoas, voltada para a área de RH.
-Área de dominio: Recursos humanos e empreendedorismo
-
-Equipe:
-Gustavo Miranda RA: 22.121.091-7
-João Victor da Silva Paula RA: 22.121.098-2
-Vinicius Nagatomo RA: 22.121.107-1
+![1](https://github.com/joaovictor1508/pman/assets/127452811/fd3677ba-541c-4b84-8120-f821c3be544d)
+![2](https://github.com/joaovictor1508/pman/assets/127452811/167c4b19-7104-4e19-a2da-b57fd212bd4b)
+![3](https://github.com/joaovictor1508/pman/assets/127452811/ade99d91-e60a-4756-9a98-0986fbf1203b)
+![4](https://github.com/joaovictor1508/pman/assets/127452811/7495e5aa-5e6e-43fd-b255-fb67fde5275b)
+![5](https://github.com/joaovictor1508/pman/assets/127452811/d32ddd88-9475-40ae-ba35-f9cb766940ad)
